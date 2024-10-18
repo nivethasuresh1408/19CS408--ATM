@@ -1,4 +1,4 @@
-# 19CS408--ATM
+# 19CS408--EX NO:1 ATM AND BANKING SYSTEM
 
 # AIM 
 To Create UML Diagrams For ATM & Banking System Using StarUML
@@ -23,7 +23,8 @@ To Create UML Diagrams For ATM & Banking System Using StarUML
 ![ATM state diagram](https://github.com/user-attachments/assets/b7147180-16ae-4262-8eb9-add7daa7240b)
 
 # COMMUNICATION DIAGRAM
+![027eeb13-9d6b-490a-b885-c00484e6d98b](https://github.com/user-attachments/assets/c50949f2-5747-4d50-b06d-d2b45632dc7a)
 
-![ATM Communication](https://github.com/user-attachments/assets/c02a1fe8-d4bb-4fc1-a4f5-72815c46b6fc)
+
 # RESULT
 Hence, Use Case, Activity, Sequence, Class and Communication diagrams for ATM banking system is successfully drawn.
